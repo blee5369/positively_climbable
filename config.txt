@@ -1,0 +1,1 @@
+{"location" : "All Locations", "route_type": "RoCk", "diff_rating_range" : ["5.10a", "5.10c"], "rock_route_type_exclude" : {"sport":False, "trad":True, "toprope":False}}
